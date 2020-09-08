@@ -4089,7 +4089,7 @@ FORM z024 USING b_result.
     ENDIF.
   ENDIF.
 
- DATA: lv_test TYPE string.
+ DATA: lv_test TYPE string,
        lv_test1 TYPE string.
 
 ENDFORM.
