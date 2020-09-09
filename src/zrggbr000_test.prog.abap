@@ -4091,6 +4091,7 @@ FORM z024 USING b_result.
 
  DATA: lv_test TYPE string,
        lv_test1 TYPE string,
-       lv_branch1 TYPE string.
+       lv_branch1 TYPE string,
+       lv_ext_rep TYPE string.
 
 ENDFORM.
